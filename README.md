@@ -14,15 +14,15 @@ This repository houses the backend API for a robust stock portfolio tracker appl
 - Real-time Stock Data: Fetches live stock prices from external APIs (e.g., Alpha Vantage, IEX Cloud). 💰
   
 # 🛠️ Technology Stack
-Java 21
-Spring Boot 3.x
-Spring Security
-Spring Data JPA
-Spring Scheduling
-REST Client (RestTemplate or WebClient)
-PostgreSQL Database 🐘
-JUnit & Mockito for testing 
-Redis for caching
+Java 21 <br>
+Spring Boot 3.x <br>
+Spring Security <br>
+Spring Data JPA <br>
+Spring Scheduling <br>
+REST Client (RestTemplate or WebClient) <br>
+PostgreSQL Database <br>
+JUnit & Mockito for testing  <br>
+Redis for caching <br>
 
 # ⚙️ Getting Started
 1. Prerequisites:
